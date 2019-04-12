@@ -4,6 +4,8 @@
 
 #include <cassert>
 #include <memory>
+#include <utility>
+#include <tuple>
 
 
 #include <QGuiApplication>
@@ -11,6 +13,7 @@
 #include <QTextureMaterial>
 #include <QNormalDiffuseSpecularMapMaterial>
 #include <QDiffuseMapMaterial>
+#include <QQuickView>
 
 #include <Qt3DRender/qcamera.h>
 #include <Qt3DCore/qentity.h>

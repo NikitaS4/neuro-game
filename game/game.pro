@@ -1,4 +1,4 @@
-QT += 3dcore 3drender 3dinput 3dextras
+QT += quick 3dcore 3drender 3dinput 3dextras
 QT += widgets
 
 CONFIG += c++17
